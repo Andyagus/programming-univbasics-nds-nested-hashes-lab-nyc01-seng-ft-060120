@@ -18,6 +18,4 @@ film_fest = [
   name: "Arnold Luvtz!"
   favorite_movie: "A day past Shintzgerton"
 }
-
-
 ]
