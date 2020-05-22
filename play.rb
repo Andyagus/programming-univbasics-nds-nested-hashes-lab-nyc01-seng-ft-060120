@@ -13,3 +13,8 @@ director_3 = {
   favorite_movie: "A day past Shintzgerton"
 }
 
+film_fest = {
+  director_1,
+  director_2,
+  director_3
+}
