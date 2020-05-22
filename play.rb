@@ -14,7 +14,6 @@ director_3 = {
 }
 
 film_fest = {
-  director_1,
-  director_2,
-  director_3
+
+
 }
