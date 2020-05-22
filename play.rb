@@ -12,7 +12,7 @@ film_fest = [
 {
   name: "Johnny chase"
   favorite_movie: "Entourage"
-}
+},
 
 {
   name: "Arnold Luvtz!"
