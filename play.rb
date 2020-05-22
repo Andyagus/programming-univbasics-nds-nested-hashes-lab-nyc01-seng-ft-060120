@@ -1,3 +1,5 @@
 director_1 = {
-  name :""
+  name: "ida lubinovitch",
+  favorite_movie: "Great Gatsby"
 }
+
