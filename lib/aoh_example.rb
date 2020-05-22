@@ -9,6 +9,8 @@ BRUCE_G = { name:  "Bruce Green", occupation: "Fan of Mildred" }
 def assembled_aoh
  assembly = [
   { name:  "Don Gately", occupation: "Live-in Staff" },
+  { name:  "Pat Monteseian", occupation: "Staff" },
+  { name:  "Kate Gompert", occupation: "None" }
   
 ]
 end
